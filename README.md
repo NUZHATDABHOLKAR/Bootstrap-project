@@ -12,6 +12,6 @@ SHOPIFY CLONE
 
 
 ## LINK
-[Restaurant landing page](https://projectbootstarp.netlify.app/)
+[Restaurant landing page](https://projectbootstarp1.netlify.app/)
 ## TIME
 16 HOUR
