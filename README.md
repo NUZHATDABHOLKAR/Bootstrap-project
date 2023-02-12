@@ -2,7 +2,7 @@
 DABHOLKAR NUZHAT
 
 ## PROJECT TITLE
-SHOPIFY CLONE
+Restaurant landing page
 
 ## skill  
  1)html<br>
